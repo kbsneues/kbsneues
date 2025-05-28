@@ -99,5 +99,3 @@ Here are some ideas to get you started:
 [![Blog](https://img.shields.io/badge/Dev%20Blog-Velog-brightgreen?style=flat-square)](https://velog.io/@yourid)
 
 ---
-
-<!-- TIP: 이 README는 'yourgithubid/yourgithubid' 저장소에 업로드하면 프로필 메인에 자동 노출됩니다. -->
