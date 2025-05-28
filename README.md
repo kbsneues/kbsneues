@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kbsneues&show_icons=true&theme=tokyonight&count_private=true" width="400"/>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yourbojhandle" width="250"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kbsneues" width="250"/>
 
 </p>
 
