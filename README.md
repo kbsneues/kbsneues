@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">👋 Hi, I’m Younghyun – Building Meaningful Intelligence with Data</h1>
+<h1 align="center">👋 Hi, bosung – Building Meaningful Intelligence with Data</h1>
 <p align="center">
   대화형 AI, 자연어처리, 데이터 기반 서비스에 몰입하고 있는<br>
   개발자 Younghyun의 포트폴리오입니다.
