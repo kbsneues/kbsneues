@@ -89,6 +89,6 @@ Here are some ideas to get you started:
 
 ## 📬 Reach Me
 
-[![Gmail](https://img.shields.io/badge/youremail@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kbs08598@gmail.com)]
+[![Gmail](https://img.shields.io/badge/kbs08598@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
 ---
