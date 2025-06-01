@@ -7,19 +7,18 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AIVLE SCHOOL-KT-red?style=flat-square" />
   <img src="https://img.shields.io/badge/GPT-Driven-blue?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data Engineering-Python%20%7C%20GCP%20%7C%20SQL-yellowgreen?style=flat-square" />
 </p>
 
 ---
 
 ## 🔍 About Me
 
-> **실전 중심의 문제 해결**을 지향합니다.  
-> AI를 활용한 의미 있는 사용자 경험을 만들기 위해, 작은 개선에도 끊임없이 실험합니다.
+> **사용자 중심의 문제 해결을 지향합니다.  
+> 의미 있는 사용자 경험을 만들기 위해, 작은 개선에도 끊임없이 실험합니다.
 
-- 🧠 GPT 기반 Q&A 챗봇 개발 및 도메인 적용 (LangChain, ChromaDB)
+- 🧠 Swift 기반 ios 앱 개발 및 도메인 적용 (Xcode)
 - 🗂️ 대용량 PDF/STT 데이터 처리 자동화 및 요약 서비스 설계
-- 🌐 Spring Boot, React 기반 AI 플랫폼 풀스택 개발 경험
+- 🌐 mvc, mvvm 패턴 설계 
 - ☁️ AWS & GCP 멀티 클라우드 배포 및 JVM 최적화 경험
 - 🔄 지속 가능한 데이터 흐름을 설계하는 것이 목표입니다
 
@@ -32,8 +31,6 @@
 | [AI Lecture Summarizer](https://github.com/) | STT + GPT 기반 강의 자동 요약 서비스 | Flask, GPT API, LangChain, GCP |
 | [Voice Assistant Platform](https://github.com/) | 음성 인식 기반 AI 챗봇 플랫폼 | FastAPI, OpenAI, ChromaDB |
 | [Multi-Cloud Deployment](https://github.com/) | GCP + AWS 통합 배포 및 리소스 최적화 | Docker, VM, S3, RDS |
-
-> 각 프로젝트에는 실제 기술 선택 이유, 장애 해결 경험, 협업 방식까지 상세히 기술되어 있습니다.
 
 ---
 
@@ -73,8 +70,6 @@
 ## 📬 Reach Me
 
 [![Gmail](https://img.shields.io/badge/youremail@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
-[![Blog](https://img.shields.io/badge/Dev%20Blog-Velog-brightgreen?style=flat-square)](https://velog.io/@yourid)
 
 ---
 
