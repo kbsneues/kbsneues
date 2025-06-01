@@ -17,9 +17,8 @@
 > 의미 있는 사용자 경험을 만들기 위해, 작은 개선에도 끊임없이 실험합니다.
 
 - 🧠 Swift 기반 ios 앱 개발 및 도메인 적용 (Xcode)
-- 🗂️ 대용량 PDF/STT 데이터 처리 자동화 및 요약 서비스 설계
 - 🌐 mvc, mvvm 패턴 설계 
-- ☁️ AWS & GCP 멀티 클라우드 배포 및 JVM 최적화 경험
+- ☁️ AWS & GCP 멀티 클라우드 배포 경험
 - 🔄 지속 가능한 데이터 흐름을 설계하는 것이 목표입니다
 
 ---
@@ -37,7 +36,11 @@
 ## 🔎 Skills
 
 ### 💻 Languages & Frameworks  
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ObjectiveC-A8B9CC?style=flat-square&logo=jaaaa&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a>
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=flat&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
