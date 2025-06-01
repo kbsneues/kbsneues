@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AIVLE SCHOOL-KT-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/GPT-Driven-blue?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 ---
