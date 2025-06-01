@@ -26,9 +26,9 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [AI Lecture Summarizer](https://github.com/) | STT + GPT 기반 강의 자동 요약 서비스 | Flask, GPT API, LangChain, GCP |
-| [Voice Assistant Platform](https://github.com/) | 음성 인식 기반 AI 챗봇 플랫폼 | FastAPI, OpenAI, ChromaDB |
-| [Multi-Cloud Deployment](https://github.com/) | GCP + AWS 통합 배포 및 리소스 최적화 | Docker, VM, S3, RDS |
+| [To-DO-LIST](https://github.com/kbsneues/To-do-plan) | To-Do 목록 관리 프로그램 | Swift |
+| [DATA-GO-OPENAPI](https://github.com/kbsneues/Iot_internet) | 대기정보 openAPI를 통해 웹서비스 만들기 | Node.js, React.js, mongoDB |
+| [MYBOARD](https://github.com/kbsneues/myboard) | 나만의 게시판 만들기 | Node.js, mongoDB |
 
 ---
 
